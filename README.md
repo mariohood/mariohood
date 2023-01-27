@@ -28,7 +28,7 @@
   <img align="center" alt="html5" src=""/>
   <img align="center" alt="html5" src=""/>
   <img align="center" alt="html5" src=""/>
-  <img align="center" alt="html5" src=""/>
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
    <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img align="center" alt="html5" src=""/>
