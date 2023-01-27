@@ -16,5 +16,17 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mario-ceferino-ibañez-hancco-688918189)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariohood&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariohood&layout=compact)](https://github.com/mariohood/github-readme-stats)
+![Mariohood's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariohood&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariohood&layout=compact&theme=dracula)](https://github.com/mariohood/github-readme-stats)
+
+## Tecnologias que eu uso no meu dia
+
+<div>
+  <img align="center" alt="html5" src="" />
+  <img align="center" alt="html5" src="" />
+  <img align="center" alt="html5" src="" />
+  <img align="center" alt="html5" src="" />
+  <img align="center" alt="html5" src="" />
+  <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
+</div>
