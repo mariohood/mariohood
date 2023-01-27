@@ -33,7 +33,7 @@
    <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img align="center" alt="html5" src=""/>
   <img align="center" alt="html5" src=""/>
-  <img align="center" alt="html5" src=""/>
+  <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
    
 
 </div>
