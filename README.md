@@ -16,7 +16,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mario-ceferino-ibañez-hancco-688918189)
 
 
-![Mariohood's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariohood&show_icons=true&theme=dracula)
+[![Mariohood's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariohood&show_icons=true&theme=dracula)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariohood&layout=compact&theme=dracula)](https://github.com/mariohood/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
